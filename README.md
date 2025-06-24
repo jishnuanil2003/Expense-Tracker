@@ -22,7 +22,7 @@ A simple and responsive Income & Expense Tracker web app built using HTML, CSS, 
  
 📸 Screenshots
 
-![App Screenshot](./assets/screenshot.png)
+![App Screenshot](./screenshot.png)
 
 📂 File Structure
 
